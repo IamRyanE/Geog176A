@@ -1,0 +1,18 @@
+---
+title: "Home Page"
+---
+```{r, echo = FALSE}
+library(icon)
+```
+<center>
+
+# Hi, I'm Ryan Erickson.
+## Nice to meet you!
+
+```{r, echo=FALSE}
+fa("smile-beam", size = 10, animate="spin")
+```
+
+### Well you've stumbled on the home page for my project website. Navigate this website to learn a little more about me and what I've done so far.
+
+</center>

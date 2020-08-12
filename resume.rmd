@@ -1,0 +1,13 @@
+---
+title: "My Resume"
+---
+
+<center>
+
+# You can view my resume below:
+
+I try to keep it as up-to-date as possible
+
+![](img/resume.png)
+
+</center>

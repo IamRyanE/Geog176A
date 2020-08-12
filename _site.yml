@@ -1,0 +1,22 @@
+name: "mypersonalwebsite"
+output_dir: "."
+navbar:
+  title: "Ryan Erickson"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: home.html
+    - text: "GIS Work"
+      icon: fa-globe
+      href: geog176A.html
+    - text: "Resume"
+      icon: fa-align-justify
+      href: resume.html
+  right:
+    - icon: fa-github
+      href: https://github.com/IamRyanE
+    - icon: fa-question-circle
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
