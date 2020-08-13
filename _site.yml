@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       icon: fa-home
-      href: home.html
+      href: index.html
     - text: "GIS Work"
       icon: fa-globe
       href: geog176A.html
@@ -16,8 +16,9 @@ navbar:
     - icon: fa-github
       href: https://github.com/IamRyanE
     - icon: fa-question-circle
-      href: index.html
+      href: home.html
 output:
   html_document:
     theme: cosmo
+    
     
