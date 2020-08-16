@@ -10,7 +10,7 @@ library(icon)
 ## Nice to meet you!
 
 ```{r, echo=FALSE}
-fa("smile-beam", size = 10, animate="spin")
+fa("smile-beam", size = 100, animate="spin")
 ```
 
 ### Well you've stumbled on the home page for my project website. Navigate this website to learn a little more about me and what I've done so far.
