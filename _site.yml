@@ -12,6 +12,9 @@ navbar:
     - text: "Resume"
       icon: fa-align-justify
       href: resume.html
+    - text: Labs
+      icon: fa-flask
+      href: iamryane.github.io/geog176a_labs/index.html
   right:
     - icon: fa-github
       href: https://github.com/IamRyanE
