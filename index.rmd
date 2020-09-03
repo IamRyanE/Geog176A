@@ -15,4 +15,6 @@ fa("smile-beam", size = 5, animate="spin")
 
 ### You've stumbled on the home page for my project website. Navigate this website to learn a little more about me and what I've done so far.
 
+I'm currently in the market for GIS work and on my way to becoming a top-level GIS Analyst. I'm proficient in coding in R and creating maps in both R and ESRI's ArcGIS Pro. 
+
 </center>

@@ -14,7 +14,7 @@ navbar:
       href: resume.html
     - text: Labs
       icon: fa-flask
-      href: https://iamryane.github.io/geog176A_labs/index.html 
+      href: https://iamryane.github.io/geog176A_labs/
   right:
     - icon: fa-github
       href: https://github.com/IamRyanE
