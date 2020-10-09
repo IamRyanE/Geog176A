@@ -294,12 +294,34 @@ $(document).ready(function () {
     Resume
   </a>
 </li>
-<li>
-  <a href="https://iamryane.github.io/geog176A_labs/">
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
     <span class="fa fa-flask"></span>
      
     Labs
+     
+    <span class="caret"></span>
   </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="https://iamryane.github.io/geog176A_labs/index.html">Home</a>
+    </li>
+    <li>
+      <a href="https://iamryane.github.io/geog176A_labs/lab-02.html">Lab 2</a>
+    </li>
+    <li>
+      <a href="https://iamryane.github.io/geog176A_labs/lab-03.html">Lab 3</a>
+    </li>
+    <li>
+      <a href="https://iamryane.github.io/geog176A_labs/lab-04.html">Lab 4</a>
+    </li>
+    <li>
+      <a href="https://iamryane.github.io/geog176A_labs/lab-05.html">Lab 5</a>
+    </li>
+    <li>
+      <a href="https://iamryane.github.io/geog176A_labs/lab-06.html">Lab 6</a>
+    </li>
+  </ul>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -330,11 +352,51 @@ $(document).ready(function () {
 
 
 <p>These are some projects I’ve done through out my time at UCSB.</p>
+<div id="arcmaps---maps-i-created-in-arcmap-pro-by-esri" class="section level1">
+<h1>ArcMaps - Maps I created in ArcMap Pro, by ESRI</h1>
 <div id="geog-199" class="section level2">
 <h2>Geog 199</h2>
-<p>This is an independent studies class I took with Kostas Goulias. Here I had to go through NHTS data to create a spatial distribution of telecommuters and commuters. I did this in ArcMap, but it would have been easier to start in R, and use ArcMap to put the final aesthetics on. This took me way to long to make for how simple they are:</p>
-<p><img src="img/CommuterMap.jpg" /></p>
-<p><img src="img/TelecommuterMap.jpg" /> ##I intend to put more stuff here later.</p>
+<center>
+<img src="img/CommuterMap.jpg" style="width:40.0%" /> <img src="img/TelecommuterMap.jpg" style="width:40.0%" />
+</center>
+<p>This is from the independent studies class I took with Kostas Goulias. Here I had to go through NHTS data to create a spatial distribution of telecommuters and commuters. I did this in ArcMap, and I would have loved to revisit these maps and the data in R, however the COVID 19 pandemic cut the time I was supposed to meet and interact with my adviser:</p>
+</div>
+<div id="london-pump-analysis" class="section level2">
+<h2>London Pump Analysis</h2>
+<center>
+<img src="img/Layout.png" style="width:60.0%" />
+</center>
+<p>Here is a map I created in a class at UCSB in which we digitally replicated the Broad Street cholera outbreak, a severe outbreak of cholera that occurred in 1854 near Broad Street in the Soho district of the City of Westminster, London, England. This was an assignment to get us used to the idea of solving problems using the power of GIS. After displaying the locations and numbers of deaths due to cholera, we deduced that the number of these deaths were exceptionally higher near sewage pumps, leading to the theory that these pumps were mismanaged/poorly inspected. These same deductions were the same found by John Snow (not the GOT version) who at that time had found the same results.</p>
+</div>
+<div id="ucsbs-geog-176-series-result" class="section level2">
+<h2>UCSB’s Geog 176 Series Result</h2>
+<center>
+<p><img src="img/Project_Poster.png" /> &lt;&gt;</p>
+<p>A poster I created with a fantastic group for my Geography 176C class, the final course in a Geographic Informational Sciences series. Here we had to collect all our own data and come up with a GIS related question/theory, display, and present our findings to our peers.</p>
+</div>
+</div>
+<div id="r---maps-and-research-i-conducted-in-r" class="section level1">
+<h1>R - Maps and Research I conducted in R</h1>
+<div id="some-basic-aesthetics-were-created-using-inkscape" class="section level5">
+<h5>*some basic aesthetics were created using InkScape</h5>
+</div>
+<div id="basic-research-map" class="section level2">
+<h2>Basic Research Map</h2>
+<center>
+<img src="img/fourcombinedmaps.png" title="fig:" style="width:50.0%" alt="*" />
+</center>
+<p>This is a basic bi-variate map displaying the case and death relationships to average county income. Here anything that is more red indicates a higher average income, and low average deaths while anything more blue indicates a higher death and case count in areas that have lower average income. There are two types of income data, household income and per capita income to see if there’s any variation in results. The case and death counts have also been normalized to 100,000 people, which makes areas such as LA and San Francisco (areas with high counts but due to extremely high populations)</p>
+</div>
+<div id="flooding-analysis-start-map" class="section level2">
+<h2>Flooding Analysis Start Map</h2>
+<center>
+<img src="img/russian_river.png" />
+</center>
+<p>Here you see the beginnings of a flooding analysis raster. For fear accidentally sharing confidential resources and out of respect for my peers, I did not want to display data that is in the process of being published and is currently being researched. This is a basic map consisting of a DEM Raster and Polylines representing the Russian River in California that is the beginning for flood prediction and analysis.</p>
+<div id="for-more-work-ive-done-in-r-please-visit-my-labs-page" class="section level4">
+<h4><strong><em>For more work I’ve done in R, please visit my Labs page!</em></strong></h4>
+</div>
+</div>
 </div>
 
 

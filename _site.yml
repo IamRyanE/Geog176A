@@ -14,7 +14,19 @@ navbar:
       href: resume.html
     - text: Labs
       icon: fa-flask
-      href: https://iamryane.github.io/geog176A_labs/
+      menu:
+        - text: "Home"
+          href: https://iamryane.github.io/geog176A_labs/index.html
+        - text: "Lab 2"
+          href: https://iamryane.github.io/geog176A_labs/lab-02.html
+        - text: "Lab 3"
+          href: https://iamryane.github.io/geog176A_labs/lab-03.html
+        - text: "Lab 4"
+          href: https://iamryane.github.io/geog176A_labs/lab-04.html
+        - text: "Lab 5"
+          href: https://iamryane.github.io/geog176A_labs/lab-05.html
+        - text: "Lab 6"
+          href: https://iamryane.github.io/geog176A_labs/lab-06.html
   right:
     - icon: fa-github
       href: https://github.com/IamRyanE

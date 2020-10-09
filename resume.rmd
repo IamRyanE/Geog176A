@@ -4,10 +4,11 @@ title: "My Resume"
 
 <center>
 
-# You can view my resume below:
+# Thank you for your interest and taking the time to read my resume! I hope you find it interesting.
 
-I try to keep it as up-to-date as possible
+![](img/RyanErickson-1.png)
 
-![](img/resume.png)
+## List of References
+![](img/RyanErickson-2.jpg)
 
 </center>
