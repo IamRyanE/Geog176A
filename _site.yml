@@ -15,7 +15,7 @@ navbar:
     - text: Labs
       icon: fa-flask
       menu:
-        - text: "Home"
+        - text: "Labs Home"
           href: https://iamryane.github.io/geog176A_labs/index.html
         - text: "Lab 2"
           href: https://iamryane.github.io/geog176A_labs/lab-02.html
